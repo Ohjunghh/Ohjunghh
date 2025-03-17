@@ -5,9 +5,9 @@
   [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=ddd1111)](https://solved.ac/ddd1111)
 
-<a href="https://strat.tistory.com/category">
-  <img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Blog&logoColor=white"/>
-</a>
+
+</a> <a href = "https://strat.tistory.com/"> <img alt="Tistory" src ="https://img.shields.io/badge/Tistory-white.svg?&style=for-the-badge"/></a>
+
   #### :fire: I aim to become a AI Engineer.<br/>
   <br/>
   <br/>
