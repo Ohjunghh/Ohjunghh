@@ -6,8 +6,9 @@
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=ddd1111)](https://solved.ac/ddd1111)
 
 <a href="https://strat.tistory.com/category">
-  <img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://yeonyeon.tistory.com"/>
+  <img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Vimeo&logoColor=white&link=https://strat.tistory.com"/>
 </a>
+
   #### :fire: I aim to become a AI Engineer.<br/>
   <br/>
   <br/>
