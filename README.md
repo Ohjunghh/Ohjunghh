@@ -2,6 +2,9 @@
   <!--Body-->
   
   ## 👀 About Me
+  [![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=ddd1111)](https://solved.ac/ddd1111)
+
   #### :fire: I aim to become a AI Engineer.<br/>
   <br/>
   <br/>
@@ -31,13 +34,5 @@
   <br/>
   
   ## 🤔 Github Stats
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ohjunghh)](https://github.com/anuraghazra/github-readme-stats)
-  <br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ohjunghh)](https://github.com/anuraghazra/github-readme-stats)
-  
-</div>
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=ddd1111)](https://solved.ac/ddd1111)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ohjunghh&layout=compact)
+</div>
