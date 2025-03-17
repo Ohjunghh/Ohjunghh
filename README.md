@@ -16,8 +16,8 @@
   <br/>
   
   ### Library
-  <!--scikitlearn-->
-  <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+  <!--Scikit-learn-->
+<img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/> 
   <!--Scrapy-->
   <img src="https://img.shields.io/badge/Scrapy-60A839?style=flat-square&logo=Scrapy&logoColor=white"/>
   <!--Selenium-->
