@@ -5,12 +5,11 @@
 </a> <a href = "https://strat.tistory.com/"> <img alt="Tistory" src ="https://img.shields.io/badge/Tistory-white.svg?&style=for-the-badge"/></a>
 </span>
   
-  ## 👀 About Me
+  ## About Me
   #### :fire: I aim to become a AI Engineer.<br/>
   <br/>
-  <br/>
   
-  ## 🧱 Tech Stack
+  ## Tech Stack
   ### Language
   <!--Python-->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
@@ -36,6 +35,6 @@
   <br/>
   <br/>
   
-  ## 🤔 Github Stats
+  ## Github Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ohjunghh&layout=compact)
 </div>
