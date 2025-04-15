@@ -38,7 +38,7 @@
   </a>
   &nbsp;
   <a href="https://strat.tistory.com/">
-    <img alt="Tistory" src="https://img.shields.io/badge/Tistory-white?style=for-the-badge&logo=Tistory&logoColor=black"/>
+    <img alt=" Tistory" src="https://img.shields.io/badge/Tistory-white?style=for-the-badge&logo=Tistory&logoColor=black"/>
   </a>
 
 </div>
