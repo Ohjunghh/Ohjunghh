@@ -1,40 +1,44 @@
 <div>
-  <!--Body-->
 
-<span> [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=ddd1111)](https://solved.ac/ddd1111)
-</a> <a href = "https://strat.tistory.com/"> <img alt="Tistory" src ="https://img.shields.io/badge/Tistory-white.svg?&style=for-the-badge"/></a>
-</span>
-  
-  ## About Me
-  #### :fire: I aim to become a AI Engineer.<br/>
+  <!-- About Me -->
+  <h2>About Me</h2>
+  <p>🔥 I aim to become an <strong>AI Engineer</strong>.</p>
+
   <br/>
-  
-  ## Tech Stack
-  ### Language
-  <!--Python-->
+
+  <!-- Tech Stack -->
+  <h2>Tech Stack</h2>
+
+  <h3>💻 Language</h3>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-  <br/>
-  
-  ### Library
-  <!--Scikit-learn-->
+
+  <h3>📚 Library</h3>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-  <!--Scrapy-->
   <img src="https://img.shields.io/badge/Scrapy-60A839?style=flat-square&logo=Scrapy&logoColor=white"/>
-  <!--Selenium-->
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/>
-  <br/>
-  
-  ### Framework
-  <!--Django-->
+
+  <h3>🌐 Framework</h3>
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
-  <br/>
-  
-  ### ETC
-  <!--MySQL-->
+
+  <h3>🗃 Database</h3>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-  <br/>
-  <br/>
-  
-  ## Github Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ohjunghh&layout=compact)
+
+  <br/><br/>
+
+  <!-- GitHub Stats -->
+  <h2>GitHub Stats</h2>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ohjunghh&layout=compact&theme=default"/>
+
+  <br/><br/>
+
+  <!-- Profile Links -->
+  <h2>📌 Links</h2>
+  <a href="https://solved.ac/ddd1111">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ddd1111" alt="Solved.ac 프로필" style="height: 100px;"/>
+  </a>
+  &nbsp;
+  <a href="https://strat.tistory.com/">
+    <img alt="Tistory" src="https://img.shields.io/badge/Tistory-white?style=for-the-badge&logo=Tistory&logoColor=black"/>
+  </a>
+
 </div>
