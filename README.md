@@ -34,11 +34,11 @@
   <!-- Profile Links -->
   <h2>📌 Links</h2>
   <a href="https://solved.ac/ddd1111">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ddd1111" alt="Solved.ac 프로필" style="height: 100px;"/>
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ddd1111" alt="Solved.ac 프로필"/>
   </a>
-  &nbsp;
-  <a href="https://strat.tistory.com/">
-    <img alt=" Tistory" src="https://img.shields.io/badge/Tistory-white?style=for-the-badge&logo=Tistory&logoColor=black"/>
-  </a>
+  &nbsp;  <a href="https://strat.tistory.com/">
+  <img alt="     Tistory" src="https://img.shields.io/badge/Tistory-white?style=for-the-badge&logo=Tistory&logoColor=black"/>
+</a>
+
 
 </div>
