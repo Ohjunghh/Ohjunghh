@@ -8,28 +8,20 @@
 
   <!-- Tech Stack -->
   <h2>Tech Stack</h2>
-
-  <h3>💻 Language</h3>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-
-  <h3>📚 Library</h3>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scrapy-60A839?style=flat-square&logo=Scrapy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/>
-
-  <h3>🌐 Framework</h3>
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
-
-  <h3>🗃 Database</h3>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scrapy-60A839?style=flat-square&logo=Scrapy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 
   <br/><br/>
 
   <!-- GitHub Stats -->
   <h2>GitHub Stats</h2>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ohjunghh&layout=compact&theme=default"/>
-
-  <br/><br/>
+  </br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ohjunghh&theme=default&show_icons=true"/>
 
   <!-- Profile Links -->
   <h2>📌 Links</h2>
