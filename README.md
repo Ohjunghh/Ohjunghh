@@ -24,7 +24,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Ohjunghh&theme=default&show_icons=true"/>
 
   <!-- Profile Links -->
-  <h2>📌 Links</h2>
+  <h2> Links</h2>
   <a href="https://solved.ac/ddd1111">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ddd1111" alt="Solved.ac 프로필"/>
   </a>
